@@ -1,3 +1,7 @@
+Nama: Farhan Aminudin
+NIM: 2440511007
+Kelas/Prodi: 5C / Teknik Informatika
+
 # CryptAccess
 
 > **Secure Your Information. Control Your Access.**
